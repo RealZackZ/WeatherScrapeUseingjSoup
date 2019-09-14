@@ -15,7 +15,7 @@ public class WeatherAVGATL {
   	  	weather1ToString = weather1ToString.replaceAll("(^[-])[^0-9]", "");  //Regrex 0-9 and - incase weather is below 0
   	    	int degrees1 = Integer.parseInt(weather1ToString); //convert String to Int
   	   	System.out.println(degrees1 + " F");//
-	    	numberOfWeatherInputs++; // added to find average of temperatures 
+	    	numberOfWeatherInputs++; // added to find avg of temperatures 
 
 	    
 	  	Document doc2 = Jsoup.connect("https://www.wsbtv.com/weather").get();
