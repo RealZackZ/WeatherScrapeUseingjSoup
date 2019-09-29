@@ -7,7 +7,7 @@ public class WeatherAVGATL {
 CODE OUTPUT
 
 Atlanta, GA Weather Forecast and Conditions - The Weather Channel | Weather.com
-75 F
+76 F
 Atlanta Weather | WSB-TV
 77 F
 Atlanta, GA Forecast | Weather Underground
