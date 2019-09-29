@@ -3,6 +3,17 @@ import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
 public class WeatherAVGATL {
+/*
+CODE OUTPUT
+
+Atlanta, GA Weather Forecast and Conditions - The Weather Channel | Weather.com
+75 F
+Atlanta Weather | WSB-TV
+77 F
+Atlanta, GA Forecast | Weather Underground
+78 F
+The Adverage is 77 F
+*/
 
 	public static void main(String[] args) throws Throwable{
 		// TODO Auto-generated method stub
